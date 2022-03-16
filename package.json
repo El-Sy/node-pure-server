@@ -1,5 +1,5 @@
 {
-  "name": "vanilla-node",
+  "name": "node-pure-server",
   "version": "1.0.0",
   "description": "exercise on using just node to serve static file",
   "main": "index.js",
